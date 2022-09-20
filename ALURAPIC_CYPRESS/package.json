@@ -1,0 +1,14 @@
+{
+  "name": "alurapic---cypress",
+  "version": "1.0.0",
+  "description": "Desafio Técnico - Estágio QA - Nucleus.eti",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Tiago Shianti",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.1.1"
+  }
+}
